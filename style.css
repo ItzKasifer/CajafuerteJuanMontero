@@ -16,9 +16,7 @@ body{
 .contenido{
     width: 1000px;
     background-color: none;
-    border: 3px solid;
-    
-    border-radius: 10px;
+   
     margin-left: 500px;
 }
 h1, p,li{
